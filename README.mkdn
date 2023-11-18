@@ -11,7 +11,7 @@ To initialize your local repository using the LineageOS trees, use a command lik
 ```
 repo init -u https://github.com/NTTKDeveloper/android.git -b master
 ```
-Then to sync up:
+Then to sync up: (default use j8)
 ```
 repo sync
 ```
